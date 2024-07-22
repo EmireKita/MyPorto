@@ -5,8 +5,11 @@ html {
 body {
 	margin-bottom: 120px;
 	margin-top: 30px;
+	background-image: url(img/what-the-hex.webp);
 }
-
+.jumbotron {
+	background-image: url(img/what-the-hex.webp);
+}
 .jumbotron img {
 	width: 200px;
 	border: 5px solid #666;
@@ -22,7 +25,8 @@ section {
 }
 
 .portfolio {
-	background-color: #eee;
+	/* background-color: #eee; */
+	background-image: url(img/what-the-hex.webp);
 }
 
 .contact {
